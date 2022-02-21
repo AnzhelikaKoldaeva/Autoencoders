@@ -9,4 +9,4 @@ As a result, I
 - reconstruct new faces by choosing a random point in the latent space and decoding it
 
 
-I thained the networks on GPU in Google Colab. The weights are saved in .hp5 files for each autoencoder.
+I thained the networks on GPU in Google Colab. The weights are saved in .h5 files for each autoencoder.

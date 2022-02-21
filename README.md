@@ -7,3 +7,6 @@ As a result, I
 - perform the tSNE dimensionality reduction and visualisation on the latent space
 - implement cheap image morphing of two randomly chosen images
 - reconstruct new faces by choosing a random point in the latent space and decoding it
+
+
+I thained the networks on GPU in Google Colab. The weights are saved in .hp5 files for each autoencoder.
